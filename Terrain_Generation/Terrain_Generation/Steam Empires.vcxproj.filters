@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Sprite">
+      <UniqueIdentifier>{8ba88677-6066-40f8-8abc-6c7e2b975a83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Button">
+      <UniqueIdentifier>{cb5c110a-b48c-499e-85f5-d8bb9e852672}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameEngine">
+      <UniqueIdentifier>{0d51514e-a4e2-4469-a4ab-931a0bda28c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameMenu">
+      <UniqueIdentifier>{26f83c52-f91e-4557-9df0-0acf02bef0d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Map Generation">
+      <UniqueIdentifier>{682d9fc5-4378-45f0-b403-e459de03a00f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Renderer">
+      <UniqueIdentifier>{5d6f08c8-2692-42c8-99b9-54d8e7cf5635}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tile">
+      <UniqueIdentifier>{dcd10d50-dff9-496c-975d-bbabc162ea30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ResourceHandler">
+      <UniqueIdentifier>{400ccdec-fc7e-4d4b-a93f-07605c251bef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameHandler">
+      <UniqueIdentifier>{b18fa22e-8321-4d37-87c3-2e159ef48a6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Faction">
+      <UniqueIdentifier>{7b1660fe-ded6-4bcf-9838-e90eaed13d29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Settlements">
+      <UniqueIdentifier>{7fa0b47f-0132-432c-bb74-f46b0cffafbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hud">
+      <UniqueIdentifier>{22619a9c-eddf-4ef2-a522-58e9ed618436}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SettlementMenu">
+      <UniqueIdentifier>{bfbc31a1-2d24-4101-b515-eba86c3ed4d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine.cpp">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMenu.cpp">
+      <Filter>Source Files\GameMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="MapGen.cpp">
+      <Filter>Source Files\Map Generation</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceHandler.cpp">
+      <Filter>Source Files\ResourceHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="GameHandler.cpp">
+      <Filter>Source Files\GameHandler</Filter>
+    </ClCompile>
+    <ClCompile Include="Faction.cpp">
+      <Filter>Source Files\Faction</Filter>
+    </ClCompile>
+    <ClCompile Include="Settlement.cpp">
+      <Filter>Source Files\Settlements</Filter>
+    </ClCompile>
+    <ClCompile Include="Hud.cpp">
+      <Filter>Source Files\Hud</Filter>
+    </ClCompile>
+    <ClCompile Include="SettlementMenu.cpp">
+      <Filter>Source Files\SettlementMenu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>Source Files\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Source Files\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine.h">
+      <Filter>Source Files\GameEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMenu.h">
+      <Filter>Source Files\GameMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MapGen.h">
+      <Filter>Source Files\Map Generation</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Source Files\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Source Files\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Source Files\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceHandler.h">
+      <Filter>Source Files\ResourceHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="GameHandler.h">
+      <Filter>Source Files\GameHandler</Filter>
+    </ClInclude>
+    <ClInclude Include="Faction.h">
+      <Filter>Source Files\Faction</Filter>
+    </ClInclude>
+    <ClInclude Include="Settlement.h">
+      <Filter>Source Files\Settlements</Filter>
+    </ClInclude>
+    <ClInclude Include="Hud.h">
+      <Filter>Source Files\Hud</Filter>
+    </ClInclude>
+    <ClInclude Include="SettlementMenu.h">
+      <Filter>Source Files\SettlementMenu</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

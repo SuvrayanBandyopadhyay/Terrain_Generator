@@ -1,0 +1,4 @@
+﻿  GameEngine.cpp
+C:\Users\Suvra\OneDrive\Documents\Programming\C++\Terrain_Generation\Terrain_Generation\GameEngine.cpp(39,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Suvra\OneDrive\Documents\Programming\C++\Terrain_Generation\Terrain_Generation\GameEngine.cpp(50,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Terrain_Generation.vcxproj -> C:\Users\Suvra\OneDrive\Documents\Programming\C++\Terrain_Generation\x64\Debug\Terrain_Generation.exe
