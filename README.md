@@ -17,13 +17,10 @@ The features include
 
 ![image](https://github.com/user-attachments/assets/41f2a81b-abb2-4309-989d-93f6655f3e20)
 
-<img width="959" alt="Village by the sea 2024-06-02" src="https://github.com/user-attachments/assets/dc3fb60d-b8fd-4519-a05e-cd930e8dd4b1" />
-
 
 ![image](https://github.com/user-attachments/assets/60120fb0-76ad-4a27-baaf-55c4e57204a8)
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/391e2f0c-f9cc-4411-af6a-955dc8857397)
 
 ![image](https://github.com/user-attachments/assets/bd3e34a1-e5cf-4627-986c-636608ed1a55)
 
