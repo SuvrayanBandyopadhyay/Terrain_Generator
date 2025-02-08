@@ -77,7 +77,6 @@ void Hud::update(Tile* selector, std::vector<Settlement>settlements, std::map<st
 		}
 		else
 		{
-			cout << "out" << endl;
 			//Draw a rectangle in the upper right corner
 			DrawRectangle(upper_right_x, upper_right_y, 2000 - upper_right_x, 600, Color{ 100,100,100,200 });
 			//Create the upper right tile data

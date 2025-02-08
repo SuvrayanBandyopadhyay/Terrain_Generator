@@ -11,24 +11,24 @@ void ResourceHandler::load()
 
 	//Loading the textures;
 	//Buttons
-	newgametex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Buttons/New_Game.png");
-	loadgametex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Buttons/Load_Game.png");
-	settingstex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Buttons/Settings.png");
-	creditstex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Buttons/Credits.png");
+	newgametex = LoadTexture("Resources/Buttons/New_Game.png");
+	loadgametex = LoadTexture("Resources/Buttons/Load_Game.png");
+	settingstex = LoadTexture("Resources/Buttons/Settings.png");
+	creditstex = LoadTexture("Resources/Buttons/Credits.png");
 	
 	//Tiles
-	tiletex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Tiles/tiles.png");
+	tiletex = LoadTexture("Resources/Tiles/tiles.png");
 
 
 	//Settlements
-	settletex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Structures/Village.png");
+	settletex = LoadTexture("Resources/Structures/Village.png");
 
 	//Cursor
-	cursortex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Utilities/cursor.png");
+	cursortex = LoadTexture("Resources/Utilities/cursor.png");
 
 	//Go inside button
-	gointex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Buttons/Go_Inside.png");
+	gointex = LoadTexture("Resources/Buttons/Go_Inside.png");
 
 	//Next turn texture
-	nextTurnTex = LoadTexture("C:/Users/Suvra/OneDrive/Documents/Programming/C++/Steam Empires/x64/Debug/Resources/Buttons/NextTurn.png");
+	nextTurnTex = LoadTexture("Resources/Buttons/NextTurn.png");
 }
