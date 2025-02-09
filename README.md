@@ -9,7 +9,7 @@ The features include
 
 1) Hills, mountains, beaches, seas and oceans
 2) Rivers, whose generation are based on both height and precipitation
-3) Generation of villages 
+3) Villages 
 
 
 # Some examples
