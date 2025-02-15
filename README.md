@@ -1,6 +1,9 @@
 # Terrain_Generator
 A procedural terrain generator made with c++ and raylib
 
+Based on my previous project 
+https://github.com/SuvrayanBandyopadhyay/Procedural_Generation
+
 ![image](https://github.com/user-attachments/assets/5c6d6a82-ece4-4437-9128-098cf3cab3d1)
 
 Initially I was working on a grand strategy game. However I was unable to finish it. This repository contains the terrain generation part which was mostly complete.
